@@ -1,4 +1,6 @@
-﻿using CarShop.DataAccess.UnitOfWork;
+﻿using CarShop.DataAccess.Repository;
+using CarShop.DataAccess.UnitOfWork;
+using CarShop.Models;
 using Ninject;
 
 namespace CarShop.BusinessLogic.Config

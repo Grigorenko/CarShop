@@ -4,6 +4,9 @@
 /CarShop.Models/obj
 /CarShop.BusinessLogic/bin
 /CarShop.BusinessLogic/obj
+/CarShop.UserInterface/obj
+/CarShop.UserInterface/bin
+/CarShop.UserInterface/App_Data
 /packages
 /TestDAL
 /bin
