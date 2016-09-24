@@ -2,6 +2,8 @@
 /CarShop.DataAccess/bin
 /CarShop.Models/bin
 /CarShop.Models/obj
+/CarShop.BusinessLogic/bin
+/CarShop.BusinessLogic/obj
 /packages
 /TestDAL
 /bin
