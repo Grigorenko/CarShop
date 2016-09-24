@@ -141,10 +141,6 @@
       <Project>{dfb86803-58b0-40ae-a947-2c0465ab0f41}</Project>
       <Name>CarShop.BusinessLogic</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CarShop.DataAccess\CarShop.DataAccess.csproj">
-      <Project>{387370e5-ca61-433d-8373-7c5a877673c7}</Project>
-      <Name>CarShop.DataAccess</Name>
-    </ProjectReference>
     <ProjectReference Include="..\CarShop.Models\CarShop.Models.csproj">
       <Project>{5bb001d1-1acf-4527-b3f6-033a78b9a652}</Project>
       <Name>CarShop.Models</Name>

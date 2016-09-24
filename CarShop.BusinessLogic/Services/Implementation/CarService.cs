@@ -10,9 +10,9 @@ namespace CarShop.BusinessLogic.Services.Implementation
     public class CarService : ICarService
     {
         private IUnitOfWork _unit;
-        public CarService(IUnitOfWork unit)
+        public CarService()
         {
-            _unit = unit;
+            _unit = new UnitOfWork();
         }
 
         public void Add(Car car)

@@ -11,9 +11,9 @@ namespace CarShop.DataAccess.UnitOfWork
         private CarShopContext db;
         private Dictionary<Type, object> _repo;
 
-        public UnitOfWork(CarShopContext con)
+        public UnitOfWork()
         {
-            db = con;
+            db = new CarShopContext();
             _repo = new Dictionary<Type, object>();
         }
 
